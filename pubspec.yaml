@@ -43,23 +43,6 @@ dev_dependencies:
 # The following section is specific to Flutter.
 
 flutter:
-  fonts:
-    - family: NunitoSan
-      fonts:
-        - asset: fonts/NunitoSans-Black.ttf
-        - asset: fonts/NunitoSans-Bold.ttf
-        - asset: fonts/NunitoSans-ExtraBold.ttf
-        - asset: fonts/NunitoSans-ExtraLight.ttf
-        - asset: fonts/NunitoSans-Light.ttf
-        - asset: fonts/NunitoSans-Regular.ttf
-        - asset: fonts/NunitoSans-SemiBold.ttf
-    #    - asset: fonts/NunitoSans-Black.ttf
-    #    - asset: fonts/NunitoSans-Black.ttf
-     #   - asset: fonts/NunitoSans-Black.ttf
-      #  - asset: fonts/NunitoSans-BlackItalic.ttf
-        
-          
-    
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
@@ -93,6 +76,21 @@ flutter:
   #       - asset: fonts/TrajanPro.ttf
   #       - asset: fonts/TrajanPro_Bold.ttf
   #         weight: 700
-  #
+  fonts:
+    - family: NunitoSan
+      fonts:
+        - asset: fonts/NunitoSans-Black.ttf
+        - asset: fonts/NunitoSans-Bold.ttf
+        - asset: fonts/NunitoSans-ExtraBold.ttf
+        - asset: fonts/NunitoSans-ExtraLight.ttf
+        - asset: fonts/NunitoSans-Light.ttf
+        - asset: fonts/NunitoSans-Regular.ttf
+        - asset: fonts/NunitoSans-SemiBold.ttf
+    #    - asset: fonts/NunitoSans-Black.ttf
+    #    - asset: fonts/NunitoSans-Black.ttf
+     #   - asset: fonts/NunitoSans-Black.ttf
+      #  - asset: fonts/NunitoSans-BlackItalic.ttf
+        
+          
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
